@@ -1,0 +1,6 @@
+{
+  "key": "your key",
+  "cities": ["Saint Petersburg", "Moscow","Ryazan"],
+  "update_frequency": 3600,
+  "forecast_days": 3
+}
